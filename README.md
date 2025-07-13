@@ -1,18 +1,5 @@
-
-
 <!--
 **kimaya012/kimaya012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### 👋 Hey there, I'm Kimaya Mishra
 
@@ -35,7 +22,8 @@ I'm a software developer with a soft spot for smart systems — blending code, l
 - 👩‍💻 I turn coffee and curiosity into clean code.
 - 🛠️ Currently exploring the edges of AI, LLMs, and efficient backend systems.
 - 🌱 Lifelong learner — always upskilling, always shipping.
-
+- 💬Fluent in Python, JavaScript, and unspoken dev memes
+- 
 > If it’s innovative, impactful, and intelligently designed — count me in.
 
 ---
@@ -44,9 +32,23 @@ I'm a software developer with a soft spot for smart systems — blending code, l
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=kimaya012&show_icons=true&theme=default&hide=stars&count_private=true" />
+
+<!-- Language Pie Chart -->
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimaya012&layout=compact&theme=default" />
+
+</div>
 
 ---
 
