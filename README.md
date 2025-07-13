@@ -23,7 +23,7 @@ I'm a software developer with a soft spot for smart systems — blending code, l
 - 🛠️ Currently exploring the edges of AI, LLMs, and efficient backend systems.
 - 🌱 Lifelong learner — always upskilling, always shipping.
 - 💬Fluent in Python, JavaScript, and unspoken dev memes
-- 
+
 > If it’s innovative, impactful, and intelligently designed — count me in.
 
 ---
